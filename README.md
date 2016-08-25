@@ -17,7 +17,7 @@ C:\MongoDB\Server\3.2\bin\mongod.exe
 ##Install dev tools
 
 ```
-    npm install -g babel-cli nodemon --save-dev
+    npm install -g babel-cli babel-preset-es2015 nodemon --save-dev
 ```
 
 ##Work in dev mode using
