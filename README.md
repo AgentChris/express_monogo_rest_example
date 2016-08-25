@@ -39,13 +39,12 @@ _This will start put the code in the build folder in es5 to be compatible with a
 
 Get
 <img src='http://i.imgur.com/NdVrDOe.png'/>
-![alt tag](http://imgur.com/NdVrDOe)
 Post
-![alt tag](http://imgur.com/g2BFoAq)
+<img src='http://i.imgur.com/g2BFoAq.png'/>
 Put
-![alt tag](http://imgur.com/x55V4Dk)
+<img src='http://imgur.com/x55V4Dk.png'/>
 Put
-![alt tag](http://imgur.com/DQbXlKj)
+<img src='http://imgur.com/DQbXlKj.png'/>
 
 ### API ENDPOINTS
 <table>
