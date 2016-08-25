@@ -38,6 +38,7 @@ _This will start put the code in the build folder in es5 to be compatible with a
 <a href='https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en'>Postman</a>
 
 Get
+<img src='http://i.imgur.com/NdVrDOe.png'/>
 ![alt tag](http://imgur.com/NdVrDOe)
 Post
 ![alt tag](http://imgur.com/g2BFoAq)
